@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlogReader</string>
+    <string name="no_items">No items to display!</string>
+    <string name="network_unavailable">Network is unavailable!</string>
+    <string name="title">Ooops! Sorry!</string>
+    <string name="error_message">There was an error getting Data from Blog</string>
+    <string name="action_share">Share</string>
+    <string name="share_chooser_title">How do you want to share?</string>
+</resources>
